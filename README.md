@@ -8,6 +8,6 @@ I Love code and create new stuff, i like too much to discover new technologies a
 
 My specialties: Data Science
 
-Languages:Python
+Languages: Python
 
 What I don't know, give me a few days 😁
